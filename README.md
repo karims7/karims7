@@ -65,4 +65,4 @@ Computer Science student at York University interested in AI research, machine l
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/karims7/) · [Email](mailto:shadabkarim@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/karims7/) 
