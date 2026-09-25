@@ -61,7 +61,7 @@ Computer Science student at York University interested in AI research, machine l
 
 - [LLM from Scratch](https://github.com/karims7/LLM-from-Scratch) - Building a GPT-style language model from first principles.
 - [Layer 2 VPN](https://github.com/karims7/Layer2VPN) - A virtual Layer 2 network using TAP devices and a UDP virtual switch.
-- [Kafka from Scratch](https://github.com/karims7/mini-Kafka) - Learning how a distributed event-streaming system works by building one.
+- [Kafka-esque](https://github.com/karims7/mini-Kafka) - Learning how a distributed event-streaming system works by building a mini Kafka.
 - [PyTorch from Scratch](https://github.com/karims7/PyTorch-from-Scratch) - A deep-learning framework with a custom tensor engine and CUDA operations.
 
 ## Publication
